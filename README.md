@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @anggid
+- 👋 Hi, I’m Anggi Dwifiani (@anggid)
 - 👀 I’m interested in Data Scientist in International Relation
 - 🌱 I’m currently learning Data Science
 - 💞️ I’m looking to collaborate on Data Scientist Project
